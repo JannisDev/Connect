@@ -1,5 +1,7 @@
 # Hier finden sie Hilfe zu verschiedenen Themen
 
+![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fsteemitimages.com%2FDQmbLuQVNjgNemLju27URUGsVKowHBrV8GAjnNBLSawXyhd%2Fhilfe.jpg&imgrefurl=https%3A%2F%2Fsteemkr.com%2Fsteemit%2F%40sebescen81%2Fhilfe&tbnid=8CEp3hKMOMHysM&vet=12ahUKEwiJ56XsnLjxAhWBt6QKHV0TBEMQMygNegUIARDSAQ..i&docid=AOEZ_73o3NV5IM&w=1300&h=1300&q=Hilfe&client=opera&ved=2ahUKEwiJ56XsnLjxAhWBt6QKHV0TBEMQMygNegUIARDSAQ "Titel")
+
 ## Wie benutze ich die App?
 
 - Laden sie sich die App auf ihr Handy und Installieren sie dich die Desktop Anwendung auf ihrem gewünschten PC.
