@@ -1,34 +1,10 @@
-# Infos:
-Das hier ist einfach irgen ein Text der dazu dient verschiedene Sachen zu testen wie z.B.
+# News:
+##Neue Features
 
-- Einbettungen auf der Webite
-- Allgemeine Darstellung von Markdown-Dateien
-- andere
+- Auswahl des Nachtmodus in den Einstellungen
+- Überarbeitung des News feed
+- Überarbeitung der allgemeinen Appdesigns
 
-Und<br>
-Ich<br>
-Wollte<br>
-Mal<br>
-Schauen<br>
-Was<br>
-Passiert<br>
-Wenn<br>
-Der<br>
-Text<br>
-Länger<br>
-Wird<br>
-Und<br>
-Nichtmehr<br>
-Auf<br>
-Die<br>
-Seite<br>
-Passt<br>
-Ob<br>
-Dann<br>
-Die<br>
-Scroll<br>
-View<br>
-Funtuiniert<br>
-!<br>
+##Bugfixes
 
-- Hi
+- Allgemeine Verbesserungen
