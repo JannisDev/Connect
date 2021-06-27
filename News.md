@@ -3,7 +3,7 @@
 
 - Auswahl des Nachtmodus in den Einstellungen
 - Überarbeitung des News feed
-- Überarbeitung der allgemeinen Appdesigns
+- Überarbeitung des allgemeinen Appdesigns
 
 ## Bugfixes
 
