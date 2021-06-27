@@ -12,4 +12,5 @@
 
 ## Ich bekomme von der Desktop App keine Nachrichten!
 
-- 
+- Stellen sie sicher dass sie die Nachrichtenfunktion für die Anwendung nicht Blockiert wurde.
+- Falls sie keine Push benachritigungen bekommen, schauen sie nach dass der Benachrichtigungsassisten aus oder richtig eingestellt ist.
