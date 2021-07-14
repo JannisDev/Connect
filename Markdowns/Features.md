@@ -8,6 +8,5 @@ Um die App zu nutzen brauchen sie keine Lange Einrichtung wie bei anderen System
 
 ## Was wird in Zukunft kommen?
 
-- Widgets um direkt vom Startbildschirm Nachrichten zu versenden.
 - Mehr Personalisierung in den Themen Farben und Starteinstellungen.
 - Weitere Design Änderungen für ein Optimales und Angenehmes Erlebnis.

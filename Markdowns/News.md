@@ -1,10 +1,11 @@
 # News:
 ## Neue Features
 
-- Auswahl des Nachtmodus in den Einstellungen
-- Überarbeitung des News feed
-- Überarbeitung des allgemeinen Appdesigns
+- **!BETA!** Widget für Schnellnachrichten direkt über den Startbildschirm
+
+**Achtung die Widget funktion kann noch zu Fehlern führen!** An der Verbesserung wird gearbeitet.
 
 ## Bugfixes
 
-- Allgemeine Verbesserungen
+- UDP Empfang überarbeitet
+- Performance Verbesserungen
